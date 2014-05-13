@@ -1,6 +1,6 @@
 first line
 secodd line
-thiird lien
+third line
 lin 1 
 ling 2
 line 3
